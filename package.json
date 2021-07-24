@@ -1,0 +1,31 @@
+{
+  "name": "cv_react_kualif",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.3.0",
+    "@heroicons/react": "^1.0.2",
+    "@types/react": "^17.0.14",
+    "axios": "^0.21.1",
+    "heroicons-react": "^1.4.1",
+    "next": "11.0.1",
+    "nextjs-progressbar": "0.0.11",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "eslint": "7.31.0",
+    "eslint-config-next": "11.0.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.6",
+    "typescript": "^4.3.5"
+  }
+}
