@@ -3,6 +3,7 @@ import Layout from "../components/layout";
 import { Fragment, useState, useEffect } from "react";
 import { StarIcon as StarIconOutline } from "@heroicons/react/outline";
 import { StarIcon as StarIconSolid } from "@heroicons/react/solid";
+import Image from "next/image";
 
 export default function Detail({ pokemon }) {
     let { id } = useParams();
